@@ -1,0 +1,22 @@
+body {
+    font-size: 15pt;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+h1 {
+  color: #0dbf7f;
+  font-style: italic;
+}
+iframe {
+  margin-top: 5em;
+}
+
+.btn {
+  padding: .7em .7em;
+  background: 0;
+  border: 0;
+  background-color: #ff0000;
+  color: white;
+  font-weight: 500;
+  
+}
